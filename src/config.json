@@ -1,0 +1,7 @@
+{
+    "db_type": "mysql",
+    "host": "localhost",
+    "username": "root",
+    "password": "root",
+    "db_name": "cc"
+}
